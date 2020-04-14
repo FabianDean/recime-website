@@ -1,11 +1,11 @@
 {
-    "title": "New Age",
-    "name": "startbootstrap-new-age",
+    "title": "ReciMe",
+    "name": "recime",
     "version": "5.0.7",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
     },
-    "description": "A one page app landing page HTML theme for Bootstrap.",
+    "description": "The offical website of ReciMe.",
     "keywords": [
         "css",
         "sass",
@@ -14,19 +14,20 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/new-age",
+    "homepage": "https://github.com/FabianDean/recime-website",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-new-age/issues",
+        "url": "https://github.com/FabianDean/recime-website/issues",
         "email": "feedback@startbootstrap.com"
     },
     "license": "MIT",
-    "author": "Start Bootstrap",
+    "author": "Fabian Dean Flores & Start Bootstrap",
     "contributors": [
+        "Fabian Dean Flores",
         "David Miller (http://davidmiller.io/)"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-new-age.git"
+        "url": "https://github.com/FabianDean/recime-website"
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.10.2",
